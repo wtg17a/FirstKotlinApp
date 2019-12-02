@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Not First App</string>
+    <string name="edit_message">Guess (8 characters)</string>
+    <string name="button_submit">Submit</string>
+    <string name="password">NOVEMBER</string>
+    <string name="title_activity_win">WinActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
